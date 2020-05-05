@@ -1,0 +1,37 @@
+.container-fluid {
+    background-color:teal;
+
+    
+}
+
+.header {
+    font-weight: bolder;
+    font-family: sans-serif;
+    font color: teal;
+}
+
+
+.box1 {
+    position: relative;
+    width: 2px;
+    height: 2px;
+    background-color: orangered;
+    
+}
+
+
+.form-group{
+    background-color: rgb(202, 223, 231);
+}
+
+.body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: rgb(179, 200, 212);
+}
+
