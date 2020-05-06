@@ -1,5 +1,6 @@
 .container-fluid {
-    background-color:teal;
+    background-color: rgb(149, 207, 195);
+    <a background-image: content: ;;
 
     
 }
@@ -11,18 +12,6 @@
 }
 
 
-.box1 {
-    position: relative;
-    width: 2px;
-    height: 2px;
-    background-color: orangered;
-    
-}
-
-
-.form-group{
-    background-color: rgb(202, 223, 231);
-}
 
 .body {
     margin: 0;
@@ -35,3 +24,54 @@
     background-color: rgb(179, 200, 212);
 }
 
+footer {
+    display: flex;
+    left: 0;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    margin-bottom: 0%;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+    background-color: #acb5be;
+    color: rgb(31, 27, 27);
+
+
+}
+
+line {
+    background-color: teal;
+    position: fixed;
+    margin-bottom: 5%
+}
+
+#fixed {
+    position: fixed;
+    top: 0;
+    left: 50px;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    background: #eee;
+}
+    .wrapper {
+        image-resolution: width: 150px;height: 150px;
+        background-color: rgb(180, 69, 69) ;;
+        image-resolution: width: 10%; height: 50px;
+        
+    }
+
+    .lower line {
+        left: 0;
+        bottom: 20px;
+        position: fixed;
+        width: 100%;
+        margin-bottom: 20%;
+        justify-content: center;
+        text-align: center;
+        padding: 5px;
+        background-color: #43accc;
+        color: rgb(31, 27, 27);
+
+    }
